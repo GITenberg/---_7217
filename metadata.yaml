@@ -1,0 +1,28 @@
+_repo: '---_7217'
+_version: 0.0.1
+alternative_title: Ren Wu Zhi (Study of Human Abilities)
+creator:
+  author:
+    agent_name: Liu, Shao, 3rd cent.
+    alias: 劉邵
+    gutenberg_agent_id: '2379'
+    url: http://www.gutenberg.org/2009/agents/2379
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7217'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ability'
+- !lcsh 'Leadership'
+- !lcsh 'Characters and characteristics'
+- !lcsh 'Psychology -- Early works to 1850'
+- !lcsh 'Anthropology -- Early to 1870'
+- !lcc 'PL'
+- GITenberg
+title: 人物志
+url: http://www.gutenberg.org/ebooks/7217
