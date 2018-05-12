@@ -1,6 +1,9 @@
 _repo: '---_7217'
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Ren Wu Zhi (Study of Human Abilities)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Liu, Shao, 3rd cent.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2379'
     url: http://www.gutenberg.org/2009/agents/2379
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7217#---
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
